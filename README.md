@@ -9,3 +9,6 @@ Things done in project-
   3) Clustering similar content by matching text-based features
 
   4) Finally generating recommendation (using cosine_similarity) for a given movie/TV show based on user ratings and clustering (k-means elbow unsupervised learning)
+
+https://github.com/prathisthahaha/ml_projects/assets/103099240/bac4ba30-a1d9-49c2-9f5d-53ad238287d2
+
